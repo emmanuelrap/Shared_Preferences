@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">2_1_1_Persistencia_Basica</string>
+
+    <string-array name="signos">
+        <item>Escoge tu signo</item>
+        <item>Aries</item>
+        <item>Virgo</item>
+        <item>Capricornio</item>
+        <item>Cancer</item>
+        <item>Libra</item>
+        <item>Acuario</item>
+    </string-array>
+
+</resources>
